@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1621434414 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\auto.c
+	"auto.h"
+
+1621432223 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\color.c
+	"color.h"
+
+1621430427 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\input.c
+	"input.h"
+
+1621429656 c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\input.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+
+1621435345 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Input.h"
+	"menu.h"
+	"auto.h"
+	"color.h"
+	"marca.h"
+	"servicio.h"
+
+1621432234 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\marca.c
+	"marca.h"
+
+1621435253 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\servicio.c
+	"servicio.h"
+
+1621426144 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\trabajo.c
+
+1621426245 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\fecha.c
+	"Fecha.h"
+	"Input.h"
+
+1621426245 c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\fecha.h
+	<stdio.h>
+	<stdlib.h>
+
+1621434244 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\menu.c
+	"menu.h"
+	"Input.h"
+
+1621434244 c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\menu.h
+
+1621434757 c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\auto.h
+	<stdlib.h>
+	<stdio.h>
+	"color.h"
+	"marca.h"
+	"Input.h"
+	"menu.h"
+
+1621427582 source:c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\datawarehouse.c
+
+1621431653 c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\marca.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Input.h"
+
+1621431653 c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\color.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Input.h"
+
+1621435345 c:\users\54113\desktop\gomez iglesias - primer parcial lab 1\servicio.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Input.h"
+
